@@ -1,0 +1,228 @@
+html,
+body {
+  height: 100%;
+}
+
+.active {
+  color: #FB843F;
+  position: relative;
+}
+
+.active::before {
+  left: 0.66667rem;
+  bottom: -0.13333rem;
+  position: absolute;
+  content: '';
+  display: inline-block;
+  width: 0.8rem;
+  height: 0.10667rem;
+  background-color: #FB843F;
+}
+
+.index-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.index-container header {
+  display: flex;
+  height: 1.33333rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.index-container header > .header-img {
+  height: 100%;
+  width: 1.6rem;
+}
+
+.index-container header > .header-img > img {
+  display: block;
+  height: 1.06667rem;
+  width: 1.06667rem;
+  border-radius: 100%;
+  margin: 0.13333rem;
+}
+
+.index-container header .box {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+
+.index-container header .box > div {
+  position: absolute;
+  height: 100%;
+}
+
+.index-container header .box > div .header-span {
+  font-size: 0.4rem;
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+
+.index-container header .box > div .header-span > span {
+  padding: 0.26667rem;
+  display: inline-block;
+  width: 1.6rem;
+  text-align: center;
+}
+
+.index-container section {
+  flex: 1;
+  height: 100%;
+  overflow: hidden;
+}
+
+.index-container section .bscrolls {
+  position: relative;
+  height: 100%;
+}
+
+.index-container section .bscrolls > div {
+  position: absolute;
+  height: 100%;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-nav {
+  padding: 0.85333rem 0 0.33333rem 0.33333rem;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-nav h1 {
+  font-size: 0.58667rem;
+  margin-right: 0.06667rem;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-nav h1 small {
+  font-size: 0.24rem;
+  color: #ccc;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big {
+  padding: 0 0.2rem;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-centent {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.4rem;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-centent .section-one {
+  display: flex;
+  align-items: center;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-centent .section-one img {
+  width: 0.8rem;
+  height: 0.8rem;
+  border-radius: 100%;
+  margin-right: 0.26667rem;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-centent .section-one p {
+  font-size: 0.45333rem;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-centent .section-img {
+  width: 100%;
+  margin-top: 0.53333rem;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-centent .section-img img {
+  width: 100%;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-centent .section-text p {
+  font-size: 0.53333rem;
+  font-weight: 600;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-centent .section-bottom {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.26667rem 0;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-centent .section-bottom p {
+  font-size: 0.26667rem;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-con {
+  display: flex;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-con .con-img {
+  width: 100%;
+  height: 100%;
+  margin-right: 0.4rem;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-con .con-img img {
+  width: 100%;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-con .con-right {
+  display: flex;
+  flex-direction: column;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-con .con-right div {
+  flex: 1;
+  align-items: center;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-con .con-right div:nth-child(1) {
+  display: flex;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-con .con-right div:nth-child(1) img {
+  width: 0.53333rem;
+  height: 0.53333rem;
+  border-radius: 100%;
+  margin-right: 0.53333rem;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-con .con-right div:nth-child(1) p {
+  font-size: 0.16rem;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-con .con-right div:nth-child(2) p {
+  font-size: 0.26667rem;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-con .con-right div:nth-child(3) {
+  display: flex;
+  justify-content: space-between;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-con .con-right div:nth-child(3) span:nth-child(1) {
+  font-size: 0.16rem;
+}
+
+.index-container section .bscrolls > div .bscroll-centent .section-big .section-con .con-right div:nth-child(3) span:nth-child(2) {
+  font-size: 0.48rem;
+}
+
+.index-container footer {
+  height: 1.33333rem;
+  background-color: #F6F6F9;
+}
+
+.index-container footer .footer-big {
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  align-items: center;
+}
+
+.index-container footer .footer-big > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.index-container footer .footer-big > div span {
+  font-size: 0.4rem;
+}

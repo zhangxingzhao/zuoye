@@ -1,0 +1,18 @@
+1.
+https://www.html.cn/doc/
+
+Zepto是一个轻量级的针对现代高级浏览器的JavaScript库， 它与jquery有着类似的api。 如果你会用jquery，那么你也会用zepto
+
+2.
+https://www.html.cn/doc/underscore/
+
+Underscore一个JavaScript实用库，提供了一整套函数式编程的实用功能，但是没有扩展任何JavaScript内置对象。它是这个问题的答案：“如果我在一个空白的HTML页面前坐下， 并希望立即开始工作， 我需要什么？“...它弥补了部分jQuery没有实现的功能,同时又是Backbone.js必不可少的部分
+
+3. 
+https://www.html.cn/doc/lodash/
+Lodash 中文文档
+
+
+4. 
+jQuery API 中文文档
+jQuery 是一个高效、精简并且功能丰富的 JavaScript 工具库。它提供的 API 易于使用且兼容众多浏览器，这让诸如 HTML 文档遍历和操作、事件处理、动画和 Ajax操作更加简单。本中文文档适用jQuery 1.0 - jQuery 3.1，翻译至官方文档，并且跟随官方文档持续更新。如果你是一个 jQuery 新手，我们建议你先到jQuery 学习中心练习一下。

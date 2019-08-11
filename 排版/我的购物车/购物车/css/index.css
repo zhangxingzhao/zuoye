@@ -1,0 +1,231 @@
+html,
+body,
+.index-container {
+  height: 100%;
+}
+
+.active {
+  background-color: red;
+}
+
+.index-container {
+  user-select: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.index-container header {
+  height: 1.2rem;
+  line-height: 1.2rem;
+  padding: 0 0.4rem;
+}
+
+.index-container header > div {
+  display: flex;
+  height: 100%;
+  justify-content: space-between;
+}
+
+.index-container header > div span:nth-child(1) {
+  font-size: 0.6rem;
+}
+
+.index-container header > div span:nth-child(2) {
+  font-size: 0.48rem;
+}
+
+.index-container header > div span:nth-child(3) {
+  font-size: 0.37333rem;
+}
+
+.index-container section {
+  flex: 1;
+  padding-bottom: 0.26667rem;
+  overflow: hidden;
+  background-color: #F6F6F6;
+}
+
+.index-container section .bscro {
+  position: relative;
+  height: 100%;
+}
+
+.index-container section .bscro > div {
+  position: absolute;
+  width: 100%;
+}
+
+.index-container section .bscro > div .bscro-big {
+  height: 100%;
+}
+
+.index-container section .bscro > div .bscro-big .section {
+  background-color: #fff;
+  margin-top: 0.26667rem;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-top {
+  font-size: 0.32rem;
+  padding: 0.24rem 0.33333rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-top span:nth-child(1) {
+  width: 0.85333rem;
+  height: 0.4rem;
+  background-color: red;
+  border-radius: 0.05333rem;
+  text-align: center;
+  line-height: 0.4rem;
+  color: #fff;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-top span:nth-child(3) {
+  color: red;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-top p {
+  width: 6.66667rem;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.66667rem 0.26667rem 0.26667rem 0.26667rem;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .icon > span {
+  display: inline-block;
+  height: 0.45333rem;
+  width: 0.45333rem;
+  border-radius: 100%;
+  font-size: 0.21333rem;
+  border: 1px solid red;
+  color: #fff;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .div-img {
+  width: 5.33333rem;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .div-img img {
+  width: 100%;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .div-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .div-content p {
+  font-size: 0.32rem;
+  margin-bottom: 0.13333rem;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .div-content span {
+  color: #ccc;
+  margin-bottom: 0.13333rem;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .div-content .span-new {
+  display: flex;
+  justify-content: space-between;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .div-content .span-new span {
+  color: red;
+  font-size: 0.32rem;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .div-content .span-new .con {
+  display: flex;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .div-content .span-new .cons {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ccc;
+  text-align: center;
+  line-height: 0.48rem;
+  width: 2.13333rem;
+  height: 0.48rem;
+  border: 1px solid #ccc;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .div-content .span-new .cons span {
+  background-color: #fff;
+  display: inline-block;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .div-content .span-new .cons span:nth-child(1) {
+  width: 0.45333rem;
+  height: 0.48rem;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .div-content .span-new .cons span:nth-child(2) {
+  width: 1.17333rem;
+  height: 0.48rem;
+}
+
+.index-container section .bscro > div .bscro-big .section .section-bottom .div-content .span-new .cons span:nth-child(3) {
+  width: 0.45333rem;
+  height: 0.48rem;
+}
+
+.index-container footer {
+  height: 1.52rem;
+}
+
+.index-container footer .footer-div {
+  height: 100%;
+  display: flex;
+}
+
+.index-container footer .footer-div .footer-big {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex: 1;
+}
+
+.index-container footer .footer-div .footer-big .footer-one {
+  display: flex;
+}
+
+.index-container footer .footer-div .footer-big .footer-one > span {
+  display: inline-block;
+  height: 0.42667rem;
+  width: 0.42667rem;
+  border-radius: 100%;
+  color: #fff;
+  font-size: 0.21333rem;
+  border: 1px solid red;
+  margin-right: 0.26667rem;
+}
+
+.index-container footer .footer-div .footer-big .footer-one p {
+  font-size: 0.32rem;
+}
+
+.index-container footer .footer-div .footer-big .footer-two {
+  display: flex;
+  font-size: 0.32rem;
+  margin-left: 1.2rem;
+}
+
+.index-container footer .footer-div .footer-big .footer-two p {
+  color: red;
+}
+
+.index-container footer .footer-div .footer-three > span {
+  display: inline-block;
+  width: 3.33333rem;
+  height: 100%;
+  line-height: 1.52rem;
+  background-color: red;
+  font-size: 0.45333rem;
+  text-align: center;
+}

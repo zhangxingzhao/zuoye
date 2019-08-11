@@ -1,0 +1,187 @@
+html,
+body,
+.index-contaier {
+  height: 100%;
+}
+
+.index-contaier {
+  display: flex;
+  flex-direction: column;
+}
+
+.index-contaier header {
+  padding: 0.66667rem 0.42667rem;
+  height: 4rem;
+  background-color: #FEEAE6;
+}
+
+.index-contaier header .header-top {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.index-contaier header .header-top > p {
+  font-size: 0.37333rem;
+  margin-right: 0.13333rem;
+}
+
+.index-contaier header .header-top > span {
+  display: inline-block;
+  width: 0.13333rem;
+  height: 0.13333rem;
+  border-radius: 100%;
+  background-color: red;
+}
+
+.index-contaier header .header-bottom {
+  margin-top: 1.06667rem;
+  display: flex;
+}
+
+.index-contaier header .header-bottom img {
+  width: 1.81333rem;
+  height: 1.81333rem;
+  border-radius: 100%;
+  margin-right: 0.4rem;
+}
+
+.index-contaier header .header-bottom > div {
+  display: flex;
+  align-items: center;
+}
+
+.index-contaier header .header-bottom > div span:nth-child(1) {
+  font-size: 0.66667rem;
+  display: inline-block;
+  margin-right: 0.4rem;
+}
+
+.index-contaier header .header-bottom > div span:nth-child(2) {
+  display: inline-block;
+  font-size: 0.21333rem;
+  height: 0.53333rem;
+  width: 2rem;
+  line-height: 0.53333rem;
+  text-align: center;
+  color: #ccc;
+  border-radius: 0.26667rem;
+  margin-right: 0.4rem;
+  margin-top: 0.13333rem;
+  border: 1px solid #ccc;
+}
+
+.index-contaier section {
+  flex: 1;
+  width: 100%;
+}
+
+.index-contaier section .bsc-big {
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+}
+
+.index-contaier section .bsc-big > div {
+  position: absolute;
+  width: 100%;
+}
+
+.index-contaier section .bsc-big > div .bsc {
+  width: 100%;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-dl {
+  padding: 0.66667rem 0.53333rem 0.88rem 0.69333rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 0.37333rem;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-dl > dl {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-dl > dl dt {
+  font-size: 0.53333rem;
+  margin-bottom: 0.2rem;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-middle {
+  padding: 0 0.4rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-middle > div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-middle > div span:nth-child(1) {
+  font-size: 0.50667rem;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-middle > div span:nth-child(2) {
+  font-size: 0.26667rem;
+  color: #ccc;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-middle > p {
+  margin-top: 0.4rem;
+  color: #ccc;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-middle > p small {
+  color: red;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-img {
+  display: flex;
+  justify-content: space-around;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-img img {
+  width: 4.26667rem;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-ul {
+  display: flex;
+  flex-direction: column;
+  padding: 0.4rem;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-ul ul {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+  padding: 0.58667rem 0;
+}
+
+.index-contaier section .bsc-big > div .bsc .section-ul ul li {
+  font-size: 0.4rem;
+}
+
+.index-contaier footer {
+  height: 2rem;
+  justify-content: center;
+}
+
+.index-contaier footer .footer-dl {
+  display: flex;
+  justify-content: space-around;
+}
+
+.index-contaier footer .footer-dl dl {
+  font-size: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.index-contaier footer .footer-dl dl dt {
+  font-size: 0.66667rem;
+}

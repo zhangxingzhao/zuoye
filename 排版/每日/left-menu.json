@@ -1,0 +1,184 @@
+{
+    "data": {
+        "categoryRefreshTime": 1561633293927,
+        "categories": [
+            {
+                "internalId": "jsd-hb-axcc",
+                "default": 0,
+                "subTitle": "天天秒杀",
+                "icon": "https://j-image.missfresh.cn/mis_img_20180913211451788.png?mryxw=132&mryxh=132",
+                "isNewUserPage": 0,
+                "name": "0.99菜场",
+                "isHome": 1,
+                "dataSourceType": 1
+            },
+            {
+                "internalId": "xiaolongxia",
+                "default": 0,
+                "subTitle": "总有特价",
+                "icon": "https://j-image.missfresh.cn/mis_img_20190428230338246.png?mryxw=200&mryxh=200",
+                "isNewUserPage": 0,
+                "name": "麻小夜宵",
+                "isHome": 0,
+                "dataSourceType": 1
+            },
+            {
+                "internalId": "HB-JSD-icecream",
+                "default": 0,
+                "subTitle": "夏天吃冰",
+                "icon": "https://j-image.missfresh.cn/mis_img_20190418115018970.png?mryxw=144&mryxh=144",
+                "isNewUserPage": 0,
+                "name": "畅饮冰铺",
+                "isHome": 0,
+                "dataSourceType": 1
+            },
+            {
+                "categoryType": "",
+                "internalId": "143",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "蔬菜",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "190",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "水果",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "87",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "肉蛋",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "157",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "熟食",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "112",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "水产",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "68",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "乳品",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "166",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "酒饮",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "56",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "零食",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "78",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "轻食",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "179",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "速食",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "103",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "粮油",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "124",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "个护",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "1480",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "清洁",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "1481",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "家居",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "263",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "现磨咖啡",
+                "isHome": 0,
+                "dataSourceType": 2
+            },
+            {
+                "categoryType": "",
+                "internalId": "204",
+                "default": 0,
+                "isNewUserPage": 0,
+                "name": "超市",
+                "isHome": 0,
+                "dataSourceType": 2
+            }
+        ]
+    },
+    "code": 0,
+    "msg": "",
+    "success": true
+}

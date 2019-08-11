@@ -1,0 +1,2384 @@
+{
+    "data": {
+        "lastProductIndex": 49,
+        "categoryVersion": "1561633959173",
+        "pageType": 0,
+        "secondGroupInfo": [
+            {
+                "name": "招牌麻小",
+                "secondGroupId": "zhaopaimaxiao"
+            },
+            {
+                "name": "方便伴侣",
+                "secondGroupId": "fangbianbanlv"
+            },
+            {
+                "name": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin"
+            },
+            {
+                "name": "家庭伴侣",
+                "secondGroupId": "jiatingbanlv"
+            },
+            {
+                "name": "特色主食",
+                "secondGroupId": "tesezhushi"
+            },
+            {
+                "name": "清口瓜果",
+                "secondGroupId": "qingkouguaguo"
+            },
+            {
+                "name": "追剧零食",
+                "secondGroupId": "zhuijulingshi"
+            },
+            {
+                "name": "解馋冰品",
+                "secondGroupId": "jiechanbingpin"
+            },
+            {
+                "name": "用餐工具",
+                "secondGroupId": "yongcangongju"
+            },
+            {
+                "name": "清洁整理",
+                "secondGroupId": "qingjiezhengli"
+            },
+            {
+                "name": "明日早餐",
+                "secondGroupId": "mingrizaocan222"
+            }
+        ],
+        "cellList": [
+            {
+                "cellType": 5,
+                "secondGroupId": "zhaopaimaxiao",
+                "titleInfo": {
+                    "subTitle": "招牌麻小",
+                    "title": "招牌麻小"
+                }
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "招牌麻小",
+                "secondGroupId": "zhaopaimaxiao",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/7d886742bb344daeadeb80c97c520083.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "限时秒杀"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "中号调味整虾",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "限时秒杀",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4055,
+                    "brandTag": "",
+                    "subtitle": "活虾麻辣秘制 口味再升级",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "【三盒分享装】爆料麻辣小龙虾（4-6钱）750g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-3hhbmlxlx4-6-750g",
+                    "stock": 75,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 14900
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 9900
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "招牌麻小",
+                "secondGroupId": "zhaopaimaxiao",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/1588de74b1104ac9a4fde0c955f01845.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "中号调味整虾",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4055,
+                    "brandTag": "",
+                    "subtitle": "蒜虾双爆料 这一口绝了",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "爆料蒜香小龙虾（6-8钱）750g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbbsrxlx6-8-750g",
+                    "stock": 17,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 5990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 3990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "招牌麻小",
+                "secondGroupId": "zhaopaimaxiao",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/48ce98db26474efc8dce504b9b34560e.gif",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "中号调味整虾",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4055,
+                    "brandTag": "",
+                    "subtitle": "活虾麻辣秘制 口味再升级",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "爆料麻辣小龙虾（4-6钱） 750g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbmlxlx4-6-750g",
+                    "stock": 227,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 4990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 3590
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "招牌麻小",
+                "secondGroupId": "zhaopaimaxiao",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/94af0493fbca4f30a63d5db58cf12166.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "中号调味整虾",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4055,
+                    "brandTag": "",
+                    "subtitle": "弹嫩鲜香 一只大过瘾",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "爆料十三香小龙虾（6-8钱）750g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbbssxxlx6-8-750g",
+                    "stock": 18,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 5990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 3990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "招牌麻小",
+                "secondGroupId": "zhaopaimaxiao",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/a57fddce732c4902a6650dc84d26d65a.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "中号调味整虾",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4055,
+                    "brandTag": "",
+                    "subtitle": "活虾麻辣秘制 口味再升级",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "爆料麻辣小龙虾（6-8钱）750g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbbmlxlx6-8-750g",
+                    "stock": 11,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 5990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 3990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "招牌麻小",
+                "secondGroupId": "zhaopaimaxiao",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/f976417e28494cecacb9e64a2a4cfba5.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "调味虾尾",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4057,
+                    "brandTag": "",
+                    "subtitle": "只留虾身 不仅方便更够味",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "洪湖诱惑麻辣虾球300g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbbmlxq-300g",
+                    "stock": 15,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 3990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 3590
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 5,
+                "secondGroupId": "fangbianbanlv",
+                "titleInfo": {
+                    "subTitle": "方便伴侣",
+                    "title": "方便伴侣"
+                }
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/19feff8d7e364b8da20c64dbe8387c84.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "任选3件免1件"
+                        },
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "爆款直降"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷荤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "任选3件免1件",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3959,
+                    "brandTag": "",
+                    "subtitle": "这个锁骨 火辣又性感",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "麻辣鸭锁骨130g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-wymlysg-130g",
+                    "stock": 3,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1490
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/847663b9ed104247a6d84075b772e1b4.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "任选3件免1件"
+                        },
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "爆款直降"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷荤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "任选3件免1件",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3959,
+                    "brandTag": "",
+                    "subtitle": "慢慢熬过的日子  才更有味道",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "麻辣腐竹120g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-wymlfz-120g",
+                    "stock": 5,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1090
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/708e91b0f97f4bdc9eb83ac5d4c87713.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "任选3件免1件"
+                        },
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "爆款直降"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷荤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "任选3件免1件",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3959,
+                    "brandTag": "",
+                    "subtitle": "鸭轴大戏 给你好看",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "麻辣鸭脖140g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-wymlyb-140g",
+                    "stock": 8,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1390
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/d9e72f5e85db4ea5baaf05749b01307a.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "任选3件免1件"
+                        },
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "爆款直降"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷荤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "任选3件免1件",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3959,
+                    "brandTag": "",
+                    "subtitle": "老汤熬煮  香味更浓郁",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "麻辣鸭翅130g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-wymlyc-130g",
+                    "stock": 4,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1390
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/c7a29179430f4b079861295a91e818d6.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "鲜面",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4256,
+                    "brandTag": "",
+                    "subtitle": "根根劲道 赏味期只有5天",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "意根筋拉面500g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "HB-ygjlm500g",
+                    "stock": 4,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 590
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 390
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/104017a6f48b48d0a59c1da5ee334eeb.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "鲜面",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4256,
+                    "brandTag": "",
+                    "subtitle": "根根劲道 就是这个口感",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "意根筋生鲜面130g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "HB-ygjsxm130g",
+                    "stock": 35,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 190
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 99
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/6ec1db2a7fa7461eb30a40ae9fbf795c.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16753865,
+                            "bgColor": 16774904,
+                            "nameColor": 16730257,
+                            "name": "会员7.3折"
+                        },
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "任选3件免1件"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷素",
+                    "vipTag": {
+                        "image": "https://j-image.missfresh.cn/mis_img_20190305202734698.png?mryxw=90&mryxh=33"
+                    },
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "任选3件免1件",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3960,
+                    "brandTag": "",
+                    "subtitle": "当海带遇到麻辣味儿",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "麻辣海带结120g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-wymlhdj-120g",
+                    "stock": 1,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 2,
+                            "color": 4670021,
+                            "price": 790
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1090
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/d793365c2a264efc862aa7ec457b8a14.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16753865,
+                            "bgColor": 16774904,
+                            "nameColor": 16730257,
+                            "name": "会员6.9折"
+                        },
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "任选3件免1件"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷荤",
+                    "vipTag": {
+                        "image": "https://j-image.missfresh.cn/mis_img_20190305202734698.png?mryxw=90&mryxh=33"
+                    },
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "任选3件免1件",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3959,
+                    "brandTag": "",
+                    "subtitle": "难以抵挡的麻辣诱惑",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "麻辣鱼豆腐120g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-wymlydf-120g",
+                    "stock": 1,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 2,
+                            "color": 4670021,
+                            "price": 890
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1290
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/fa2fcc9c40104dd1a0373ed80f08fd90.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "限时秒杀"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "RTC",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "限时秒杀",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4271,
+                    "brandTag": "",
+                    "subtitle": "就是这个麻酱味儿 真香【常温储藏，冷藏会影响口感哦】",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "麻酱凉皮295g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "HB-P-mjlp295g",
+                    "stock": 7,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1090
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "http://missfresh-fms.ufile.ucloud.cn/4ea046e722134f4dbccbef0387e16853.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷藏面",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4253,
+                    "brandTag": "",
+                    "subtitle": "吸溜一口 浇熄夏天的暑热",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "圃美多冷面480g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "HB-p-pmdlm-480g",
+                    "stock": 11,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1490
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/bd24031fca6c44e3b36b366fd96a5cae.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "常温面",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4255,
+                    "brandTag": "",
+                    "subtitle": "乌拉拉乌拉拉 夏天来啦",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "小麦口味冷面600g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "HB-syxmkwlm-600g",
+                    "stock": 10,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1290
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/bf0207af24a844aa88004f874dc183c7.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "常温面",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4255,
+                    "brandTag": "",
+                    "subtitle": "面汤爽口解腻 忍不住喝光光",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "荞麦口味冷面600g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-sssyqmwlm-600g",
+                    "stock": 24,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1290
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/7c8b6cb1e69e4c839cb9b985d77df8e8.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "任选3件免1件"
+                        },
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "限时特惠"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷荤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "任选3件免1件",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3959,
+                    "brandTag": "",
+                    "subtitle": "糟糕 嘴巴中了田螺的麻辣计",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "久久丫香辣田螺160g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-jjyxls-180g",
+                    "stock": 13,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1190
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 890
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/f949a282e54044498aa7db9c33f40cb4.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "任选3件免1件"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷荤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "任选3件免1件",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3959,
+                    "brandTag": "",
+                    "subtitle": "让我和啤酒来 征服你的夏天",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "久久丫香辣花蛤120g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-jjyxlhg-140g",
+                    "stock": 7,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1190
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/898792344ce04c979548662e413435b6.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "任选3件免1件"
+                        },
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "爆款直降"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷素",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "任选3件免1件",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3960,
+                    "brandTag": "",
+                    "subtitle": "夏季经典下酒菜 啤酒好cp",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "久久丫毛豆花生双拼180g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-jjyxlmdpp-210g",
+                    "stock": 14,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1090
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/a786cf2e9fb94537a10e1ffcf9600549.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "鸭肉类",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 5067,
+                    "brandTag": "",
+                    "subtitle": "骨头都入味 越啃越有料",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "久久丫甜辣鸭脖110g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-HBjjytlyb110g",
+                    "stock": 1,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1580
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/da122ff7dd224bb78de6b3cc091f78d0.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷荤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3959,
+                    "brandTag": "",
+                    "subtitle": "健康好食材 地道北京味",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "紫光园麻辣鸭脖150g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-BJzgymlyb-150g",
+                    "stock": 13,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1390
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/55cd8a22dc13489fa53778870048a486.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16753865,
+                            "bgColor": 16774904,
+                            "nameColor": 16730257,
+                            "name": "会员9.5折"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷荤",
+                    "vipTag": {
+                        "image": "https://j-image.missfresh.cn/mis_img_20190305202734698.png?mryxw=90&mryxh=33"
+                    },
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3959,
+                    "brandTag": "",
+                    "subtitle": "香辣爽口 回味无穷",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "紫光园麻辣鸭头155g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-BJzgymlyt-155g",
+                    "stock": 2,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 2,
+                            "color": 4670021,
+                            "price": 1590
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/3109649c8ee64443a6c738dc7f0fc667.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16753865,
+                            "bgColor": 16774904,
+                            "nameColor": 16730257,
+                            "name": "会员9折"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷荤",
+                    "vipTag": {
+                        "image": "https://j-image.missfresh.cn/mis_img_20190305202734698.png?mryxw=90&mryxh=33"
+                    },
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3959,
+                    "brandTag": "",
+                    "subtitle": "就爱这口扎实肉感",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "紫光园麻辣鸭胗120g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-BJzgymlyz-120g",
+                    "stock": 2,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 2,
+                            "color": 4670021,
+                            "price": 1790
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/11ead5181c5c472294d570aec33be907.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "鸡类",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3942,
+                    "brandTag": "",
+                    "subtitle": "清真老字号 地道北京味儿",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "紫光园香辣凤爪200g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-zgymzfz-200g",
+                    "stock": 2,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/86c5f75b68e44a7081cc58caa876e4f0.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "酱牛肉",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3963,
+                    "brandTag": "",
+                    "subtitle": "热菜还没上 就被吃光光",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "紫光园酱牛肉200g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-zgywxjnr-200g",
+                    "stock": 16,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 4490
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 2990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/a6c7f40e1fe541eb8af97b24bc1ad236.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "其它肉类",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3948,
+                    "brandTag": "",
+                    "subtitle": "香辣味水煮小花生",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "卤香花生320g(冷冻)",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-BJlxhs-320g",
+                    "stock": 9,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1290
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/ac08e87a88394cee90f2cff6d410fea6.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16753865,
+                            "bgColor": 16774904,
+                            "nameColor": 16730257,
+                            "name": "会员6.9折"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "其它肉类",
+                    "vipTag": {
+                        "image": "https://j-image.missfresh.cn/mis_img_20190305202734698.png?mryxw=90&mryxh=33"
+                    },
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3948,
+                    "brandTag": "",
+                    "subtitle": "烧烤小吃香辣下酒菜",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "香辣毛豆320g(冷冻)",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-BJxlmd-320g",
+                    "stock": 5,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 2,
+                            "color": 4670021,
+                            "price": 890
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1290
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/5650b059aff043ebb27cf2c3ec36ee88.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "调理海鲜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4052,
+                    "brandTag": "",
+                    "subtitle": "喷香下饭 Q弹爽滑",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "麻辣青柳蛤250g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-mlqlg-250g",
+                    "stock": 2,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 2490
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 2290
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/7d94b4e6f7964e95bed38b45d4f57090.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "调理海鲜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4052,
+                    "brandTag": "",
+                    "subtitle": "喷香下饭 Q弹爽滑",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "麻麻嘴麻辣八爪鱼250g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-mmzmlbzy-250g",
+                    "stock": 4,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 2990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 2690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/a27573d4ffbf418ca23d6e95bd78985d.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "调理海鲜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4052,
+                    "brandTag": "",
+                    "subtitle": "喷香下饭 Q弹爽滑",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "麻辣蟹钳300g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-mlzxq-300g",
+                    "stock": 2,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 2390
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 2190
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/73631e46f8de4bd7a82e02e20a057d14.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "调理海鲜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4052,
+                    "brandTag": "",
+                    "subtitle": "喷香下饭 Q弹爽滑",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "麻辣鱿鱼头250g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-mlyyt-250g",
+                    "stock": 5,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 2890
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 2590
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "方便伴侣",
+                "secondGroupId": "fangbianbanlv",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/1526f4468d3a455d9bd26509d8c9c12c.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "其它（辣条等）",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 5039,
+                    "brandTag": "",
+                    "subtitle": "从鼻子到嘴巴诱惑一个遍",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "黑色诱惑臭豆腐孜然味75g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-HBhsyhcdfzrw75g",
+                    "stock": 3,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 860
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 5,
+                "secondGroupId": "kaihuaichangyin",
+                "titleInfo": {
+                    "subTitle": "开怀畅饮",
+                    "title": "开怀畅饮"
+                }
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/9fd399faad7549f18c20d40088640169.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "碳酸",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4857,
+                    "brandTag": "",
+                    "subtitle": "遇上开心事 怎能没可乐",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "百事可乐330ml*6",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hb-bskl-330ml*6",
+                    "stock": 5,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1490
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1090
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/0e82382005a847b2b0894a68560136f2.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "碳酸",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4857,
+                    "brandTag": "",
+                    "subtitle": "从小喝到大的老北京味道",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "北冰洋桔汁汽水248ml*2",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-HBbbyjzqs-248ml*2",
+                    "stock": 7,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/d30ac16ec1764940a4cf3be0dd3a1969.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "碳酸",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4857,
+                    "brandTag": "",
+                    "subtitle": "承包你的快乐时刻",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "可口可乐2L",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hb-kkkl2l",
+                    "stock": 1,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 750
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/0098b2336a234f65876b0f93d726516e.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "黄啤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4843,
+                    "brandTag": "",
+                    "subtitle": "百年酿制工艺的好啤酒",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "【3听】百威啤酒500ml",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hb-bwpj-3t",
+                    "stock": 19,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 2190
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/8016d96f4dc041dc90f7f9c8107ad4fa.jpeg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "第二件5折"
+                        },
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "第二件半价"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "黄啤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "第二件5折",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 12,
+                    "skuCategoryId": 4843,
+                    "brandTag": "",
+                    "subtitle": "啤酒之乡青岛来的佳酿",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "【鲜啤】精酿鲜啤500ml",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "vip_product": 1,
+                    "sku": "P-HB-PPH-500ML",
+                    "stock": 6,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1390
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/d77af2daa88445b8b3ec9034bceab0c2.jpeg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "第二件5折"
+                        },
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "第二件半价"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "黄啤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "第二件5折",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 12,
+                    "skuCategoryId": 4843,
+                    "brandTag": "",
+                    "subtitle": "28天的新鲜 一拧就拥有",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "【鲜啤】泰山原浆28天啤酒450ml",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "vip_product": 1,
+                    "sku": "p-hb-tsyj28t-1p",
+                    "stock": 2,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1000
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/195c44f4d67f4b94b3a9e987e1afc3b9.jpeg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "黄啤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4843,
+                    "brandTag": "",
+                    "subtitle": "这口爽快  记得趁凉喝",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "【鲜啤】皮尔森啤酒1L",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-pespj-1000ml",
+                    "stock": 1,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 2990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/ee25104539084488a8a3132c27af991b.jpeg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "第二件5折"
+                        },
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "第二件半价"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "黄啤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "第二件5折",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 12,
+                    "skuCategoryId": 4843,
+                    "brandTag": "",
+                    "subtitle": "保质期只有7天的鲜啤",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "【鲜啤】泰山原浆7天720ml",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "vip_product": 1,
+                    "sku": "p-HBtsyjpj-720ml",
+                    "stock": 10,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/a6e863d5b3da4409a91a16de390ad213.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "第二件5折"
+                        },
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "第二件半价"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "白啤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "第二件5折",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 2,
+                    "skuCategoryId": 4842,
+                    "brandTag": "",
+                    "subtitle": "大口畅饮麦香 一起“哈啤”吧",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "【6听】哈尔滨小麦王330ml",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "vip_product": 1,
+                    "sku": "p-hebxmw-330ml*6",
+                    "stock": 10,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/product_images/2f44500cdf0651ea6b42600f2986fb0a.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "第二件5折"
+                        },
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "第二件半价"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "黄啤",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "第二件5折",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 12,
+                    "skuCategoryId": 4843,
+                    "brandTag": "",
+                    "subtitle": "装在瓶子里的墨西哥阳光",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "科罗娜啤酒",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "vip_product": 1,
+                    "sku": "p-HBmxgklnpj-330ml",
+                    "stock": 5,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/c1e3627d2b464f2899888a0644e00c8d.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "酸奶",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 5028,
+                    "brandTag": "",
+                    "subtitle": "一口气连干5杯 再来一排",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "养乐多原味乳酸菌1组",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-yldhxywrsj-1z",
+                    "stock": 30,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1290
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/ff21d8d888ac442bbd455d97c05961c4.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "限时秒杀"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "酸奶",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "限时秒杀",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 5028,
+                    "brandTag": "",
+                    "subtitle": "听说99%的人都会选这个口味",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "畅轻燕麦黄桃酸奶2盒",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-bj-cqymhtfwfjr-2p",
+                    "stock": 36,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1690
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 890
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/2043065ad6624f4795f7e1c9e2db7174.JPG",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "酸奶",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 5028,
+                    "brandTag": "",
+                    "subtitle": "一不小心就咬到大果粒啦",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "活润草莓桑葚发酵乳370g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-bjhrcmssgl-1b",
+                    "stock": 14,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/5c03beb7011b4ae7a394f8c48eda059a.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "茶饮",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4862,
+                    "brandTag": "",
+                    "subtitle": "港真 喝了它小心会上瘾哦",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "【6盒】维他柠檬茶250ml",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hb-wtnmc-1z",
+                    "stock": 32,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1690
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1490
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/a482be3910fb4122862d077bd7513a7d.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "果蔬类",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4864,
+                    "brandTag": "",
+                    "subtitle": "你的身体比你更需要一瓶橙汁",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "【2瓶】味全每日C橙汁",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbwqmrccz300ml-2",
+                    "stock": 24,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1290
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1090
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "开怀畅饮",
+                "secondGroupId": "kaihuaichangyin",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/cdc71f56229145aeb913ecfe5e8258c9.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "碳酸",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4857,
+                    "brandTag": "",
+                    "subtitle": "荔枝汽水还是珍珍家的好",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "珍珍荔枝汽水330ml*4",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hb-zzlzqs330ml*4",
+                    "stock": 6,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            }
+        ],
+        "banners": [
+            {
+                "path": "https://j-image.missfresh.cn/mis_img_20190626130039615.jpg?mryxw=556&mryxh=184",
+                "share_invite_content": {
+                    "image_url": "https://j-image.missfresh.cn/mis_img_20190616235508713.png?mryxw=100&mryxh=100",
+                    "sina_url": "https://as-vip.missfresh.cn/frontend/active/publish/1-castor-v1-52c8771f-1830-4a2b-abbf-5b51c6bc14a2/index.html?promotionId=1-castor-v1-52c8771f-1830-4a2b-abbf-5b51c6bc14a2&address_code=110114&station_code=MRYX%7Cmryx_bj_cpbjs&warehouse_code=MRYXBJS-CHANGPING&is_vip=1&app_version=null&banner_name=page_169068",
+                    "wx_url": "https://as-vip.missfresh.cn/frontend/active/publish/1-castor-v1-52c8771f-1830-4a2b-abbf-5b51c6bc14a2/index.html?promotionId=1-castor-v1-52c8771f-1830-4a2b-abbf-5b51c6bc14a2&address_code=110114&station_code=MRYX%7Cmryx_bj_cpbjs&warehouse_code=MRYXBJS-CHANGPING&is_vip=1&app_version=null&banner_name=page_169068",
+                    "qqFriendShareType": 0,
+                    "title": "麻小夜宵",
+                    "content": "为啥专家建议7分饱？因为3分用来吃夜宵！",
+                    "friend_url": "https://as-vip.missfresh.cn/frontend/active/publish/1-castor-v1-52c8771f-1830-4a2b-abbf-5b51c6bc14a2/index.html?promotionId=1-castor-v1-52c8771f-1830-4a2b-abbf-5b51c6bc14a2&address_code=110114&station_code=MRYX%7Cmryx_bj_cpbjs&warehouse_code=MRYXBJS-CHANGPING&is_vip=1&app_version=null&banner_name=page_169068"
+                },
+                "dataId": 169068,
+                "link": "https://as-vip.missfresh.cn/frontend/active/publish/1-castor-v1-52c8771f-1830-4a2b-abbf-5b51c6bc14a2/index.html?promotionId=1-castor-v1-52c8771f-1830-4a2b-abbf-5b51c6bc14a2",
+                "promotion_id": "1-castor-v1-52c8771f-1830-4a2b-abbf-5b51c6bc14a2",
+                "type": "WEBPROMOTION"
+            }
+        ],
+        "refreshFlag": 1
+    },
+    "code": 0,
+    "msg": "",
+    "success": true
+}

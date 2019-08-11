@@ -1,0 +1,209 @@
+@function px2rem ($px) {
+    @return $px / 75 * 1rem;
+}
+
+html,
+body,
+#app{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    font-size: 12px;
+}
+
+#app{
+    display: flex;
+    flex-direction: column;
+    background-color: #F6F6F6;
+}
+i{
+   font-style: normal;
+   display: inline-block;
+}   
+header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0px px2rem(30);
+    height: px2rem(92);
+    align-items: center;
+    color: #363636;
+    background-color: #fff;
+    box-sizing: border-box;
+    em{
+        font-size: px2rem(46);
+        color: #797979;
+    }
+    span{
+        font-size: px2rem(46);
+    }
+    .i{
+        font-size: px2rem(30);
+    }
+}
+.content{
+    flex: 1;
+    overflow: auto;
+    section{
+        padding:  px2rem(28)  px2rem(30);
+        background-color: #fff;
+        margin-top: px2rem(10);
+        box-sizing: border-box;
+        dl{
+            display: flex;
+            font-size:px2rem(27);
+            dd{
+                &:nth-of-type(1){
+                    i{
+                        background-color: #F04146;
+                        padding: px2rem(2) px2rem(4);
+                        color: #fff;
+                    }
+                }
+                &:nth-of-type(2){
+                    color:#F04146;
+                    font-weight: 600;
+                }
+            }
+            dt{
+                flex: 1;
+                margin-right: px2rem(36 );
+                color: #333333;
+            }
+        }
+        ul{
+            display: flex;
+            justify-content: space-between;
+            height: px2rem(220);
+            margin-top: px2rem(36);
+            li{
+                &:nth-of-type(1){
+                    display: flex;
+                    align-items: center;
+                    width: px2rem(40);
+                        i{
+                            width: px2rem(40);
+                            height: px2rem(40);
+                            font-size: px2rem(40);
+                            color: #fff;
+                            border-radius: 50%;
+                        }
+                    
+                }
+                &:nth-of-type(2){
+                    margin: px2rem(25) px2rem(60) 0px px2rem(86);
+                    img{
+                        width: px2rem(110);
+                        height: px2rem(134);
+                    }
+                }
+                &:nth-of-type(3){
+                    .text{
+                        h4{
+                            color: #999999;
+                        }
+                        p{
+                            display: flex;
+                            justify-content: space-between;
+                            margin-top: px2rem(50);
+                            span{
+                                color: #F2575B;
+                            }
+                            .price-box{
+                                    width: px2rem(162);
+                                    height: px2rem(37);
+                                    line-height: px2rem(37);
+                                    border: 1px solid #E1E1E1;
+                                    i{
+                                        width: px2rem(34);
+                                        height: px2rem(37);
+                                        text-align: center;
+                                        &:nth-of-type(1){
+                                            border-right: 1px solid #E1E1E1;
+                                        }
+                                        &:nth-of-type(2){
+                                            border-left: 1px solid #E1E1E1;
+                                        }
+                                    }
+                                    input{
+                                        position: relative;
+                                        width: px2rem(90);
+                                        height: px2rem(35);
+                                        text-align: center;
+                                        top:px2rem(-1);
+                                        border:none;
+                                    }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    }
+footer{
+    height: px2rem(110);
+    background-color: #fff;
+    color: #363636;
+    dl{
+        display: flex;
+        dt{
+            flex: 2; 
+            display: flex;
+            box-sizing: border-box;
+            padding: 0px  px2rem(20);
+            justify-content: space-between;
+            align-items: center;
+            .allselect{
+                display: flex;
+                .allchecked-border{
+                    width: px2rem(40);
+                    height: px2rem(40);
+                    margin-right: px2rem(16);
+                    i{
+                        width: px2rem(40);
+                        height: px2rem(40);
+                        font-size: px2rem(40);
+                        color: #fff;
+                        border-radius: 50%;
+                    }
+                }
+                span{
+                    font-size: px2rem(30);
+                }
+            }
+            .allprice{
+                span{
+                    &:nth-of-type(1){
+                        font-size: px2rem(24);
+                    }
+                    &:nth-of-type(2),&:nth-of-type(3){
+                        font-size: px2rem(28);
+                        color: #F04247;
+                    }
+                }
+                .all-price{
+                    display: inline-block;
+                    width: px2rem(80);
+                }
+            }
+        }
+        dd{
+            flex: 1;
+            text-align: center;
+            line-height: px2rem(110);
+            color: #fff;
+            background-color: #F04146;
+            font-size: px2rem(30);
+        }
+    }
+}
+
+.toggle-border{
+    border: 1px solid #ccc;
+}
+.toggle-bgcolor{
+    background-color: red;
+}

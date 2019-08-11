@@ -1,0 +1,55 @@
+{
+    "data": {
+        "tabInfo": [
+            {
+                "size": 24,
+                "selectImageUrl": "https://j-image.missfresh.cn/mis_img_20181012182958732.png?mryxw=66&mryxh=66",
+                "imageUrl": "https://j-image.missfresh.cn/mis_img_20181012182954811.png?mryxw=66&mryxh=66",
+                "name": "首页",
+                "tag": "tab_home",
+                "topImageUrl": "https://j-image.missfresh.cn/mis_img_20181012183004856.png?mryxw=66&mryxh=66"
+            },
+            {
+                "size": 24,
+                "selectImageUrl": "https://j-image.missfresh.cn/mis_img_20181012183020542.png?mryxw=66&mryxh=66",
+                "imageUrl": "https://j-image.missfresh.cn/mis_img_20181012183011520.png?mryxw=66&mryxh=66",
+                "name": "会员+",
+                "tag": "new_vp"
+            },
+            {
+                "size": 24,
+                "selectImageUrl": "https://j-image.missfresh.cn/mis_img_20181012183038805.png?mryxw=66&mryxh=66",
+                "imageUrl": "https://j-image.missfresh.cn/mis_img_20181012183035687.png?mryxw=66&mryxh=66",
+                "name": "发现",
+                "tag": "discover_new"
+            },
+            {
+                "size": 24,
+                "selectImageUrl": "https://j-image.missfresh.cn/mis_img_20181012183104130.png?mryxw=66&mryxh=66",
+                "imageUrl": "https://j-image.missfresh.cn/mis_img_20181012183056107.png?mryxw=66&mryxh=66",
+                "name": "购物车",
+                "tag": "tab_shopcar"
+            },
+            {
+                "size": 24,
+                "selectImageUrl": "https://j-image.missfresh.cn/mis_img_20181012183118867.png?mryxw=66&mryxh=66",
+                "imageUrl": "https://j-image.missfresh.cn/mis_img_20181012183115125.png?mryxw=66&mryxh=66",
+                "name": "我的",
+                "tag": "tab_mine"
+            },
+            {
+                "size": 24,
+                "selectImageUrl": "https://j-image.missfresh.cn/mis_img_20181012183131974.png?mryxw=66&mryxh=66",
+                "imageUrl": "https://j-image.missfresh.cn/mis_img_20181012183124056.png?mryxw=66&mryxh=66",
+                "name": "分类",
+                "tag": "classify"
+            }
+        ],
+        "color": 9868950,
+        "selectColor": 16730257,
+        "tabBgImageUrl": "https://j-image.missfresh.cn/mis_img_20181012183142957.png?mryxw=750&mryxh=166"
+    },
+    "code": 0,
+    "msg": "",
+    "success": true
+}

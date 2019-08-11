@@ -1,0 +1,2184 @@
+{
+    "data": {
+        "lastProductIndex": 49,
+        "categoryVersion": "1561633234517",
+        "pageType": 0,
+        "secondGroupInfo": [
+            {
+                "name": "限时秒杀",
+                "secondGroupId": "miaoshacaichang"
+            },
+            {
+                "name": "爆款特价",
+                "secondGroupId": "chandizhigong"
+            },
+            {
+                "name": "蔬菜区",
+                "secondGroupId": "lvyecai"
+            },
+            {
+                "name": "肉蛋区",
+                "secondGroupId": "lengxianrou"
+            },
+            {
+                "name": "水产区",
+                "secondGroupId": "shuichan-hb-caichang"
+            },
+            {
+                "name": "粮油区",
+                "secondGroupId": "anxinliangyoupu"
+            },
+            {
+                "name": "调料区",
+                "secondGroupId": "tiaoweipinaxcc"
+            },
+            {
+                "name": "凉菜/卤味区",
+                "secondGroupId": "hb-axcc-rcdp"
+            },
+            {
+                "name": "主食区",
+                "secondGroupId": "zhushiaxcc"
+            },
+            {
+                "name": "厨房清洁区",
+                "secondGroupId": "chufangqingjie"
+            }
+        ],
+        "cellList": [
+            {
+                "cellType": 5,
+                "secondGroupId": "miaoshacaichang",
+                "titleInfo": {
+                    "subTitle": "限时秒杀",
+                    "title": "限时秒杀"
+                }
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/d247479cc6dc48fc9e8128d0a38e211e.jpeg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "生菜类",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4024,
+                    "brandTag": "",
+                    "subtitle": "水里开出的奶油“生菜花”",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "波士顿奶油生菜120g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-wtbsdnysc-200g",
+                    "stock": 40,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 590
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 10
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/7386d990ae8e4d44bb8ab67a2120a197.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4026,
+                    "brandTag": "",
+                    "subtitle": "集齐多款蔬菜 召唤营养沙拉",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "沙拉蔬菜组合150g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbscsszh-150g",
+                    "stock": 4,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 590
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/6cf438e25c564d6e85d9120ced0cc70e.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冰鲜分割禽",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4231,
+                    "brandTag": "",
+                    "subtitle": "论柔嫩肉质  我更有发言权",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "华都鲜鸡大胸250g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hdbxjdx-250g",
+                    "stock": 3,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/61a58a2d2e94448a85c3cfe7e4afbbec.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "其它玉米",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4002,
+                    "brandTag": "",
+                    "subtitle": "晶莹剔透香甜可口",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "【产地直供】白糯玉米2根",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "HB-P-bnym2g",
+                    "stock": 18,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 790
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 590
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/ff695d22521f49b181b6dd41e17d7c39.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "限时秒杀"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "荚豆类",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "限时秒杀",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3975,
+                    "brandTag": "",
+                    "subtitle": "当季毛豆只加盐煮就很鲜美",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "鲜毛豆500g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "hbscmd-500g",
+                    "stock": 43,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 590
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/c4a99d883f5845ffae4ec1cf8fcda55e.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冬瓜南瓜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4011,
+                    "brandTag": "",
+                    "subtitle": "板栗味的南瓜吃过没",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "贝贝南瓜两斤装",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "HB-P-bbng2jz",
+                    "stock": 17,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1590
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/e1d27048947f43dca844750c60f589a7.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4026,
+                    "brandTag": "",
+                    "subtitle": "为你注入大力水手同款能量",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "平价菠菜400g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbscpjcbc2-400g",
+                    "stock": 9,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 390
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/027c8487c0774b648661de33d82d12e6.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "白菜甘蓝",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4025,
+                    "brandTag": "",
+                    "subtitle": "沙拉高颜值配菜首选",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "紫甘蓝1个",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "HB-P-zgl1g",
+                    "stock": 7,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 390
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/8af6f94a12434c748e7ee86214bd70df.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "水果黄瓜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3972,
+                    "brandTag": "",
+                    "subtitle": "小黄瓜总是更加鲜嫩",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "水果黄瓜10根装",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "HB-PZX-sghg10genz",
+                    "stock": 4,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1590
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/9d1c16ca641e41b18cad1f40ac9047a3.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "红薯",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4015,
+                    "brandTag": "",
+                    "subtitle": "甜糯就是我",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "海南桥头沙地红薯500g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "hbqtdg-1",
+                    "stock": 11,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1290
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/b3d0de3cf8c14f6190fde92d1ce9e472.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "小番茄",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3979,
+                    "brandTag": "",
+                    "subtitle": "90斤女孩的饭后小甜点",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "千禧圣女果500g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbschhqx-500g",
+                    "stock": 28,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/fc3bc2c636274165aaed57deb380d4ca.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冷冻猪排骨类",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4172,
+                    "brandTag": "",
+                    "subtitle": "喝汤啃大骨 让你直呼过瘾",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "在家吃饭前排块450g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-zjcfzqpk-450g",
+                    "stock": 7,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 2490
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/fb563686189d473ea16aec328eb78910.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冰鲜猪排骨类",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4215,
+                    "brandTag": "",
+                    "subtitle": "煎烤之后 骨和肉的香味全出来",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "鲜排骨块400g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-HBryrwlxpgk-400g",
+                    "stock": 2,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 2490
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 2090
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/2ac34d3486814280a8d03ef70a130c8b.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "其它玉米",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4002,
+                    "brandTag": "",
+                    "subtitle": "花糯甜汁好味道",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "花甜糯玉米3根装",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "schb-htyum-3gz",
+                    "stock": 24,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1190
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/5b451ed8b050443198132d005f0d5312.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "小番茄",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3979,
+                    "brandTag": "",
+                    "subtitle": "柿子味儿超浓的丹东人气王",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "丹东小柿子250g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbddxsz-1h",
+                    "stock": 13,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/45db1b7340bf423aa43654cbe28c4433.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "小番茄",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3979,
+                    "brandTag": "",
+                    "subtitle": "在彩云之南长大 甜蜜加倍",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "云南千禧3斤",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "HB-P-ynqx3.5j",
+                    "stock": 4,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 2990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 1690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/b3e207ad2c3d428699d6bfbd22e9f2ee.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通黄瓜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3971,
+                    "brandTag": "",
+                    "subtitle": "胖起来后 整个都变滑溜多了",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "旱黄瓜约3-4根",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hhg-500g",
+                    "stock": 11,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 790
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 490
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "9毛9抢",
+                "secondGroupId": "miaoshacaichang",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/5205453a51864838bdc2ad1ff9b89682.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "牛肉卷",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4205,
+                    "brandTag": "",
+                    "subtitle": "牛胸腹厚切 享受大口吃肉的爽",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "厚切肥牛片130g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-HBhqfnp-130g",
+                    "stock": 5,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 5,
+                "secondGroupId": "chandizhigong",
+                "titleInfo": {
+                    "subTitle": "爆款特价",
+                    "title": "爆款特价"
+                }
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/750693da3f0b4b27a07a1a6da84a729b.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4026,
+                    "brandTag": "",
+                    "subtitle": "没错 爱吃油菜的人都很有才",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "平价油菜300g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "hbscpjxyc-300g",
+                    "stock": 52,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 290
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 190
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/5dffa365a8d04c2c863495ba76bfbfa3.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冬瓜南瓜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4011,
+                    "brandTag": "",
+                    "subtitle": "别光拿我炖汤 煮个冬瓜茶吧",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "平价冬瓜400g起",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "hbsc-pjdg500g",
+                    "stock": 12,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 390
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 199
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/7280ca177ba44ebab4ecd1f5ca558756.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "爆款直降"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "冰鲜猪肉",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "爆款直降",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4199,
+                    "brandTag": "",
+                    "subtitle": "精致的猪猪女孩都爱吃精肉",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "鲜通脊200g(纯瘦肉)",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-HBryrwlxtj-200g",
+                    "stock": 1,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1290
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 990
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/6f8d07844018465095861a6e2685c406.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "限时秒杀"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "大番茄",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "限时秒杀",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3978,
+                    "brandTag": "",
+                    "subtitle": "酸甜可口的红色甜心",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "樱桃小番茄500g*1盒",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbytxfq-500g",
+                    "stock": 46,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 790
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 390
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/e2c82b32343a49bbba8d6ca204edaff2.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "限时秒杀"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "鲜鸡蛋",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "限时秒杀",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4158,
+                    "brandTag": "",
+                    "subtitle": "百变做法 不变的是鲜嫩细腻",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "享安心鲜鸡蛋10枚",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-xaxxjdcx-10m",
+                    "stock": 29,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 890
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/1553675644064f88a1f6927098067cb7.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "限时秒杀"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "国产鸡翅中",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "限时秒杀",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4185,
+                    "brandTag": "",
+                    "subtitle": "只想做清真烧烤界小霸王",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "凤祥鸡翅中400g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-HBfxjcz-400g",
+                    "stock": 19,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 2990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 2290
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/01914f77b0da4743a2260343e214b6ff.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "大番茄",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3978,
+                    "brandTag": "",
+                    "subtitle": "清甜西红柿 这辈子都吃不腻",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "密云西红柿500g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-nmyfxhs-500g",
+                    "stock": 32,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 1090
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 590
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/577421fe7ec443de85c01814e0dd4148.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "限时秒杀"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "限时秒杀",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4026,
+                    "brandTag": "",
+                    "subtitle": "就是比大个儿的嫩 略略略",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "娃娃菜3颗",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-wwc-500g",
+                    "stock": 51,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 590
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 290
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/aecd4b4efbc24ff097acc2b5b26ccaea.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通黄瓜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3971,
+                    "brandTag": "",
+                    "subtitle": "新鲜的黄瓜大姑娘",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "平价黄瓜2根",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbscpjchg2-500g",
+                    "stock": 33,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 390
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 199
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/e879bc37f3234531a076ff5116a0339a.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "限时秒杀"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通椒类",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "限时秒杀",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4007,
+                    "brandTag": "",
+                    "subtitle": "微微辣而已 尽管拿去做凉拌",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "柿子椒约2-4个",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-myszj-500g",
+                    "stock": 11,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 490
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 250
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/4a5fdb064f394e86ade18f0e528db69e.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "萝卜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3991,
+                    "brandTag": "",
+                    "subtitle": "兔仙女都爱胡萝北",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "平价胡萝卜500g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbscpjhlb2-500g",
+                    "stock": 19,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 390
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 290
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/ca96db6cb89b4da3b3b101efb0f8847c.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通瓜类",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4012,
+                    "brandTag": "",
+                    "subtitle": "嫩得小脸都紫啦 还不来吃我",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "【供港】湖南小紫茄300g-450g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbscggxzq-270g",
+                    "stock": 9,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 990
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 390
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/a82fbc4db61a4421900218b5a04f494a.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "香菇",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4030,
+                    "brandTag": "",
+                    "subtitle": "好吃不贵的香菇",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "平价香菇200g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbscpjxg-200g",
+                    "stock": 13,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 490
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 390
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/b670b56b1bf64e4d8f959d0e534c262e.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "限时秒杀"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "其它茎类",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "限时秒杀",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4021,
+                    "brandTag": "",
+                    "subtitle": "蔬菜小清新 嫩到没朋友",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "【产地直供】芦笋200g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbscpjls-200g",
+                    "stock": 11,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 790
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 590
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/c5d06a7b5b9d4e86897842c8c4f02372.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "爆款直降"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "水果黄瓜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "爆款直降",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3972,
+                    "brandTag": "",
+                    "subtitle": "小黄瓜总是更加鲜嫩",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "水果黄瓜*4根装",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-sghg-70g-100g",
+                    "stock": 20,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 890
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/c7f544370776413fa9c56c5ebcdd6444.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "豆腐类",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3984,
+                    "brandTag": "",
+                    "subtitle": "煎焖烧后 还能保持超强韧性",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "白玉北豆腐盒装385g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-bybdfhz-375g",
+                    "stock": 9,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 490
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 299
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/8816d7bac32140f3b4ede6b5c99ff75a.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "限时秒杀"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "花菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "限时秒杀",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4019,
+                    "brandTag": "",
+                    "subtitle": "细嫩甘美 蒜蓉清炒都好吃",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "平价西兰花1颗",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbscpjcxlh2-500g",
+                    "stock": 14,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 690
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 250
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/98ccd9121c0046158442797493835409.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4026,
+                    "brandTag": "",
+                    "subtitle": "细嫩甘美 蒜蓉清炒都好吃",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "平价圆白菜1颗（卷心菜）",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbscjxc-850g",
+                    "stock": 44,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 390
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "爆款特价",
+                "secondGroupId": "chandizhigong",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/1a0b064c530b4676acddaed3e8350dc7.jpg",
+                    "promotionTags": [
+                        {
+                            "borderColor": 16730257,
+                            "bgColor": 16777215,
+                            "nameColor": 16730257,
+                            "name": "限时秒杀"
+                        }
+                    ],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "萝卜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "限时秒杀",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 3991,
+                    "brandTag": "",
+                    "subtitle": "质地脆嫩 营养丰富",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "水洗胡萝卜2根",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "HB-P-sxhlb500g",
+                    "stock": 14,
+                    "pricePro": {
+                        "vip": {
+                            "showStyle": 1,
+                            "color": 9868950,
+                            "price": 390
+                        },
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 190
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 5,
+                "secondGroupId": "lvyecai",
+                "titleInfo": {
+                    "subTitle": "绿叶菜",
+                    "title": "绿叶菜"
+                }
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "绿叶菜",
+                "secondGroupId": "lvyecai",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/9d89a05e52eb42678250e6d64b5ceb67.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "季节性叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4027,
+                    "brandTag": "",
+                    "subtitle": "绿叶菜的外观 黑木耳的口感",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "木耳菜300g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "hbsc-rc400g",
+                    "stock": 2,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "绿叶菜",
+                "secondGroupId": "lvyecai",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/9274e4da98b04f4f885d34a1a58d63bc.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4026,
+                    "brandTag": "",
+                    "subtitle": "好吃全在味里",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "安心无公害韭菜250g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "HB-axwgh-250g",
+                    "stock": 1,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "绿叶菜",
+                "secondGroupId": "lvyecai",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/c58b87ae5f6d4743b8df8a7f9f8d3eab.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4026,
+                    "brandTag": "",
+                    "subtitle": "南方人常吃的炒菜的大叶芥菜",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "平价盖菜250g-300g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "hbsc-pjgc-500g",
+                    "stock": 2,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "绿叶菜",
+                "secondGroupId": "lvyecai",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/358aeec4d9ff45abb7e677958ce6027e.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "蒜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4004,
+                    "brandTag": "",
+                    "subtitle": "鲜香青蒜",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "青蒜200g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbscqs-250g",
+                    "stock": 6,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 590
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "绿叶菜",
+                "secondGroupId": "lvyecai",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/70237cabaae14bf99e0a27653d37a66a.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4026,
+                    "brandTag": "",
+                    "subtitle": "蔬菜中吃出淡淡花香",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "菊花菜300g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbscjhc-300g",
+                    "stock": 5,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "绿叶菜",
+                "secondGroupId": "lvyecai",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/af5dfe63354647ca8333e2c3cb2b62a0.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "葱",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4005,
+                    "brandTag": "",
+                    "subtitle": "增鲜提香万能调味剂",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "香葱100g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "HB-PXxc100g",
+                    "stock": 9,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 290
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "绿叶菜",
+                "secondGroupId": "lvyecai",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/f6955a8d335f44bf95da33fcbf4b9123.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "白菜甘蓝",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4025,
+                    "brandTag": "",
+                    "subtitle": "搭飞机来 只为初见的新鲜感",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "宁夏供港圆白菜470g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-ggyjybc-500g",
+                    "stock": 4,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "绿叶菜",
+                "secondGroupId": "lvyecai",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/d2501be92ab5465392c417704095df17.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4026,
+                    "brandTag": "",
+                    "subtitle": "嫩绿叶片带韧性 口口弹脆",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "宁夏供港上海青250g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-ggshq-250g",
+                    "stock": 2,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "绿叶菜",
+                "secondGroupId": "lvyecai",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/d4e287197cad4ec0abe0af6c63382fb0.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4026,
+                    "brandTag": "",
+                    "subtitle": "集清气甘香于一身的“皇帝菜”",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "密云茼蒿300g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-gghzg-300g",
+                    "stock": 3,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "绿叶菜",
+                "secondGroupId": "lvyecai",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/d946a73dbd7b454387b728e604af93f6.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "季节性叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4027,
+                    "brandTag": "",
+                    "subtitle": "没啥心眼 有的就是清爽脆嫩",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "密云空心菜300g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbscggkxc-250g",
+                    "stock": 1,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 790
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "绿叶菜",
+                "secondGroupId": "lvyecai",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/ff06a895476e42929586d61f8558e72f.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4026,
+                    "brandTag": "",
+                    "subtitle": "我虽颜黑 可也是豆芽家的人",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "黑豆苗350g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "hb-schdm-450g",
+                    "stock": 2,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "绿叶菜",
+                "secondGroupId": "lvyecai",
+                "normalProducts": {
+                    "image": "https://image.missfresh.cn/e7d2839353a84b8d9a8b08e2a21c9cb6.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "普通叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4026,
+                    "brandTag": "",
+                    "subtitle": "本来是配角 香味却超抢戏",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "平价香芹200g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hbscxq-200g",
+                    "stock": 32,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 390
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            },
+            {
+                "cellType": 7,
+                "secondGroupName": "绿叶菜",
+                "secondGroupId": "lvyecai",
+                "normalProducts": {
+                    "image": "https://fms-image.missfresh.cn/7450d4aed9f54fc8b1bd04c8ee624026.jpg",
+                    "promotionTags": [],
+                    "cart_btn_name": "加入购物车",
+                    "emptySpuInfo": true,
+                    "sell_out": false,
+                    "skuCategory": "季节性叶菜",
+                    "promotionTag": {
+                        "endColor": 16385075,
+                        "nameColor": 16777215,
+                        "name": "",
+                        "startColor": 16405022
+                    },
+                    "seckill_limit": 0,
+                    "skuCategoryId": 4027,
+                    "brandTag": "",
+                    "subtitle": "炒完的红润感 有一丝浪漫",
+                    "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                    "name": "红苋菜300g",
+                    "spuInfo": {},
+                    "showOrder": 1,
+                    "sku": "p-hxc-300g",
+                    "stock": 2,
+                    "pricePro": {
+                        "noVip": {
+                            "showStyle": 0,
+                            "color": 16730257,
+                            "price": 690
+                        }
+                    }
+                },
+                "skuFromSource": "manual"
+            }
+        ],
+        "banners": [
+            {
+                "path": "https://j-image.missfresh.cn/mis_img_20190619221559483.jpg?mryxw=556&mryxh=184",
+                "share_invite_content": {
+                    "image_url": "https://j-image.missfresh.cn/mis_img_20190617163054683.png?mryxw=200&mryxh=200",
+                    "sina_url": "https://as-vip.missfresh.cn/frontend/active/publish/1-castor-v1-aa0934bc-6f2b-4366-a5e7-6cb2eb28d905/index.html?promotionId=1-castor-v1-aa0934bc-6f2b-4366-a5e7-6cb2eb28d905&address_code=110114&station_code=MRYX%7Cmryx_bj_cpbjs&warehouse_code=MRYXBJS-CHANGPING&is_vip=1&app_version=null&banner_name=page_169038",
+                    "wx_url": "https://as-vip.missfresh.cn/frontend/active/publish/1-castor-v1-aa0934bc-6f2b-4366-a5e7-6cb2eb28d905/index.html?promotionId=1-castor-v1-aa0934bc-6f2b-4366-a5e7-6cb2eb28d905&address_code=110114&station_code=MRYX%7Cmryx_bj_cpbjs&warehouse_code=MRYXBJS-CHANGPING&is_vip=1&app_version=null&banner_name=page_169038",
+                    "qqFriendShareType": 0,
+                    "title": "上班忙不停 下班还要买菜？",
+                    "content": "上优鲜买菜 人到家 菜到家",
+                    "friend_url": "https://as-vip.missfresh.cn/frontend/active/publish/1-castor-v1-aa0934bc-6f2b-4366-a5e7-6cb2eb28d905/index.html?promotionId=1-castor-v1-aa0934bc-6f2b-4366-a5e7-6cb2eb28d905&address_code=110114&station_code=MRYX%7Cmryx_bj_cpbjs&warehouse_code=MRYXBJS-CHANGPING&is_vip=1&app_version=null&banner_name=page_169038"
+                },
+                "dataId": 169038,
+                "link": "https://as-vip.missfresh.cn/frontend/active/publish/1-castor-v1-aa0934bc-6f2b-4366-a5e7-6cb2eb28d905/index.html?promotionId=1-castor-v1-aa0934bc-6f2b-4366-a5e7-6cb2eb28d905",
+                "promotion_id": "1-castor-v1-aa0934bc-6f2b-4366-a5e7-6cb2eb28d905",
+                "type": "WEBPROMOTION"
+            }
+        ],
+        "refreshFlag": 1
+    },
+    "code": 0,
+    "msg": "",
+    "success": true
+}

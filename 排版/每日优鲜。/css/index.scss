@@ -1,0 +1,239 @@
+@function px2rem($px) {
+    @return $px / 75 *1rem;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.active {
+    color: #FB843F;
+    position: relative;
+
+    &::before {
+        left: px2rem(50);
+        bottom: px2rem(-10);
+        position: absolute;
+        content: '';
+        display: inline-block;
+        width: px2rem(60);
+        height: px2rem(8);
+        background-color: #FB843F;
+    }
+}
+
+.index-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+    header {
+        display: flex;
+        height: px2rem(100);
+        border-bottom: 1px solid #ccc;
+
+        >.header-img {
+            height: 100%;
+            width: px2rem(120);
+
+            >img {
+                display: block;
+                height: px2rem(80);
+                width: px2rem(80);
+                border-radius: 100%;
+                margin: px2rem(10);
+            }
+
+        }
+
+        .box {
+            flex: 1;
+            position: relative;
+            overflow: hidden;
+
+            >div {
+                position: absolute;
+                height: 100%;
+
+                .header-span {
+                    font-size: px2rem(30);
+                    display: flex;
+                    height: 100%;
+                    align-items: center;
+
+                    >span {
+                        padding: px2rem(20);
+                        // display: block;
+                        display: inline-block;
+                        width: px2rem(120);
+                        text-align: center;
+                    }
+                }
+            }
+        }
+    }
+
+    section {
+        flex: 1;
+        height: 100%;
+        overflow: hidden;
+        .bscrolls {
+            position: relative;
+            height: 100%;
+            >div {
+                position: absolute;
+                height: 100%;
+                .bscroll-centent {
+                    .section-nav {
+                        padding: px2rem(64) 0 px2rem(25) px2rem(25);
+
+                        h1 {
+                            font-size: px2rem(44);
+                            margin-right: px2rem(5);
+
+                            small {
+                                font-size: px2rem(18);
+                                color: #ccc;
+                            }
+                        }
+                    }
+
+                    .section-big {
+                        padding: 0 px2rem(15);
+
+                        .section-centent {
+                            display: flex;
+                            flex-direction: column;
+                            margin-bottom: px2rem(30);
+
+                            .section-one {
+                                display: flex;
+                                align-items: center;
+
+                                img {
+                                    width: px2rem(60);
+                                    height: px2rem(60);
+                                    border-radius: 100%;
+                                    margin-right: px2rem(20);
+                                }
+
+                                p {
+                                    font-size: px2rem(34);
+                                }
+                            }
+
+                            .section-img {
+                                width: 100%;
+                                margin-top: px2rem(40);
+
+                                img {
+                                    width: 100%;
+                                }
+                            }
+
+                            .section-text {
+                                p {
+                                    font-size: px2rem(40);
+                                    font-weight: 600;
+                                }
+                            }
+
+                            .section-bottom {
+                                display: flex;
+                                justify-content: space-between;
+                                padding: px2rem(20) 0;
+
+                                p {
+                                    font-size: px2rem(20);
+                                }
+                            }
+                        }
+
+                        .section-con {
+                            display: flex;
+
+                            .con-img {
+                                width: 100%;
+                                height: 100%;
+                                margin-right: px2rem(30);
+
+                                img {
+                                    width: 100%;
+                                }
+                            }
+
+                            .con-right {
+                                display: flex;
+                                flex-direction: column;
+
+                                div {
+                                    flex: 1;
+                                    align-items: center;
+
+                                    &:nth-child(1) {
+                                        display: flex;
+
+                                        img {
+                                            width: px2rem(40);
+                                            height: px2rem(40);
+                                            border-radius: 100%;
+                                            margin-right: px2rem(40);
+                                        }
+
+                                        p {
+                                            font-size: px2rem(12);
+                                        }
+                                    }
+
+                                    &:nth-child(2) {
+                                        p {
+                                            font-size: px2rem(20);
+                                        }
+                                    }
+
+                                    &:nth-child(3) {
+                                        display: flex;
+                                        justify-content: space-between;
+
+                                        span {
+                                            &:nth-child(1) {
+                                                font-size: px2rem(12);
+                                            }
+
+                                            &:nth-child(2) {
+                                                font-size: px2rem(36);
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    footer {
+        height: px2rem(100);
+        background-color: #F6F6F9;
+
+        .footer-big {
+            height: 100%;
+            display: flex;
+            justify-content: space-around;
+            text-align: center;
+            align-items: center;
+
+            >div {
+                display: flex;
+                flex-direction: column;
+
+                span {
+                    font-size: px2rem(30);
+                }
+            }
+        }
+    }
+}

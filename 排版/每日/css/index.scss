@@ -1,0 +1,215 @@
+@function px2rem($px) {
+    @return $px / 75 * 1rem;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.active {
+    user-select: none;
+    position: relative;
+    font-size: px2rem(30);
+    color: red;
+    font-weight: 600;
+
+    &::before {
+        content: '';
+        width: px2rem(8);
+        height: px2rem(40);
+        position: absolute;
+        top: px2rem(30);
+        left: 0;
+        background-color: red;
+    }
+}
+
+.topColor {
+    color: red;
+    position: relative;
+    font-weight: 600;
+
+
+    &::before {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: px2rem(20);
+        border-bottom: 2px solid red;
+        width: px2rem(120);
+        display: inline-block;
+    }
+}
+
+.index-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+    header {
+        background-color: red;
+        height: px2rem(100);
+    }
+
+    section {
+        flex: 1;
+        overflow: hidden;
+        display: flex;
+
+        .left {
+            width: px2rem(170);
+            position: relative;
+            overflow: hidden;
+            height: 100%;
+
+            >div {
+                position: absolute;
+                width: 100%;
+
+                .section-left {
+                    display: flex;
+                    flex-direction: column;
+                    height: 100%;
+
+                    span {
+                        display: inline-block;
+                        height: px2rem(100);
+                        line-height: px2rem(100);
+                        text-align: center;
+                        font-size: px2rem(26);
+                    }
+                }
+            }
+        }
+
+        .right {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+
+            .top {
+                display: flex;
+                align-items: center;
+
+                .right-top {
+                    flex: 5;
+                    height: px2rem(110);
+                    position: relative;
+                    overflow: hidden;
+                    line-height: px2rem(110);
+
+                    >div {
+                        height: 100%;
+                        position: absolute;
+
+                        .bsc {
+                            height: 100%;
+                            display: flex;
+
+                            span {
+                                width: px2rem(150);
+                                font-size: px2rem(30);
+                                text-align: center;
+                            }
+                        }
+                    }
+                }
+
+                .icon {
+                    flex: 1;
+                    text-align: center;
+                    font-size: px2rem(60);
+                    background: linear-gradient(to left, white, white, rgba(0, 0, 0, 0));
+                }
+            }
+
+            .bottom {
+                flex: 1;
+                height: 100%;
+                overflow: hidden;
+
+                .botton-one {
+                    position: relative;
+                    height: 100%;
+
+                    >div {
+                        position: absolute;
+
+                        .botton-bsc {
+                            .right-big {
+                                display: flex;
+                                flex-direction: column;
+
+                                .nav {
+                                    font-size: px2rem(40);
+                                    height: px2rem(80);
+                                    line-height: px2rem(80);
+                                }
+
+                                .right-centent {
+                                    display: flex;
+
+                                    .left-img {
+                                        padding-top: px2rem(30);
+                                        padding-right: px2rem(30);
+                                        width: px2rem(250);
+                                        height: px2rem(250);
+
+                                        img {
+                                            width: 100%;
+                                        }
+                                    }
+
+                                    .img-right {
+                                        font-size: px2rem(30);
+                                        width: 100%;
+                                        display: flex;
+                                        flex-direction: column;
+
+                                        P {
+                                            margin-top: px2rem(20);
+
+                                        }
+
+                                        >div {
+                                            margin-top: px2rem(20);
+                                            display: flex;
+                                            justify-content: space-between;
+                                            align-items: center;
+
+                                            >div {
+                                                &:nth-child(1) {
+                                                    display: flex;
+                                                    flex-direction: column;
+                                                }
+
+                                                &:nth-child(2) {
+                                                    width: px2rem(60);
+                                                    height: px2rem(60);
+                                                    background-color: red;
+                                                    text-align: center;
+                                                    line-height: px2rem(60);
+                                                    border-radius: 100%;
+                                                    font-size: px2rem(40);
+                                                    color: #fff;
+                                                    margin-right: px2rem(20);
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    footer {
+        background-color: red;
+        height: px2rem(100);
+    }
+
+}
